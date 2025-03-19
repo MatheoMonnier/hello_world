@@ -2,7 +2,7 @@
 
 # This file produce some printing
 
-print("Hello world")
+print("Hello world jupyter de merde")
 
 
 # We introduce some interaction with the user
