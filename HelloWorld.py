@@ -9,6 +9,6 @@ print("Hello world jupyter de merde")
 
 # je veux rajouter un commentaire
 
-name = input("What's your name?")
+name = input("quelle est ton nom?")
 print("\nHello " + name)
 
